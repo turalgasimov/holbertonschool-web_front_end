@@ -1,1 +1,1 @@
-HTML tasks
+Front-end tasks
